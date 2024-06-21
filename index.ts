@@ -8,7 +8,7 @@ export const handler = async (
   // TODO implement
   response = {
     statusCode: 200,
-    body: JSON.stringify("Hello from Lambda 123 next versopn!"),
+    body: JSON.stringify("Hello from Lambda 123 next what what!"),
   };
   return response;
 };
